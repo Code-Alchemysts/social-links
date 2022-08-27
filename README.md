@@ -1,10 +1,10 @@
-# 🎇 User Profile Design
+# 🔥 Social Links Page
 
 [![licence mit](https://img.shields.io/github/license/Code-Alchemysts/social-links)](https://github.com/Code-Alchemysts/social-links/blob/main/LICENSE)
 [![#CodeAlchemystsOpenSource](https://img.shields.io/badge/%23CodeAlchemystsOpenSource-Alchemysts--Open--Source-brightgreen)](https://github.com/Code-Alchemysts)
 
 > This is a project of a Social Links Page, that we've made to centralize our social links. 😀
-> This project was made as a part of and iniciative to help the community, giving some open source projects. 🤓
+> This project was made as a part of and initiative to help the community, giving some open source projects. 🤓
 
 ## Technologies i've used in this project
 
@@ -14,7 +14,7 @@
 
 ## How can you see the project?
 
-> I've deployed this project on Vercel(The company that have created NextJS), and you can see a live preview here: [`Live Preview`](#)
+> I've deployed this project on Vercel(The company that have created NextJS), and you can see a live preview here: [`Live Preview`](https://social-links-xi.vercel.app)
 
 ## If you want to study with this project, here are steps:
 
