@@ -1,5 +1,5 @@
 {
-  "name": "with-tailwindcss",
+  "name": "social-links",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,14 +10,25 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.2",
     "autoprefixer": "^10.0.4",
-    "next": "latest",
+    "next": "12.2.0",
+    "next-seo": "^5.5.0",
+    "nprogress": "^0.2.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
     "next-themes": "0.0.10",
     "postcss": "^8.1.10",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
     "react-icons": "^4.1.0",
     "react-switch": "^6.0.0",
     "tailwindcss": "^2.0.2",
     "use-dark-mode": "^2.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.20.0",
+    "eslint-config-next": "12.2.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-react": "^7.30.1"
   }
 }
