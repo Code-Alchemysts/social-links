@@ -12,15 +12,14 @@ function MyApp({ Component, pageProps }) {
       setIsPageLoading(false)
     }, 1500)
   }, [isPageLoading])
-  {
-    !isPageLoading ? (
-      <ThemeProvider attribute="class">
-        <Component {...pageProps} />
-      </ThemeProvider>
-    ) : (
-      <>Loading...</>
-    )
-  }
+
+  return !isPageLoading ? (
+    <ThemeProvider attribute="class">
+      <Component {...pageProps} />
+    </ThemeProvider>
+  ) : (
+    <>Loading...</>
+  )
 }
 
 export default MyApp
